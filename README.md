@@ -1,5 +1,9 @@
 # Hello-World
 First Git Project
 
-i love Only :coffee: 1st branch
 
+====> Chaitu loves :fries:
+=======
+====> Sruthi loves :icecream:
+i love Only :coffee: 1st branch
+=======
